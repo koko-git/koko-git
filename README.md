@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koko-git
+- 👋 Hi, I’m @koko-git japanese
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
